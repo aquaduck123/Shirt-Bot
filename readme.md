@@ -31,4 +31,4 @@ This is a modified version of Cyclcrclicly's shirt bot which can be found [here]
 <br />
 <br />
 
-[Imgur](https://i.imgur.com/pKuTPnh.gifv)
+![Imgur](https://i.imgur.com/pKuTPnh.gifv)
