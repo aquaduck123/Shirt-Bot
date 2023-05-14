@@ -23,3 +23,12 @@ This is a modified version of Cyclcrclicly's shirt bot which can be found [here]
 - Depending on how much you are willing to spend on this bot, you may want to switch which models you are using. You can find an explaination of the models [here (scroll to InstructGPT)](https://openai.com/pricing)
 - Tokens are the total length of the response. Generally, 750 words is around 1000 tokens
 - The `limit` value in `config.json` determines how many messages the bot will collect as context. More collected messages = more tokens
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+![An Image](https://media.discordapp.net/attachments/1003481985752236090/1107403308320170014/caption.gif)
