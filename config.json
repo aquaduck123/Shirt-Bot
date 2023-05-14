@@ -1,0 +1,16 @@
+{
+	"shirttalk_engine": "text-curie-001",
+	"shirtinstruct_engine": "text-davinci-003",
+	"modOnlyPing": true,
+	"modOnlyInstruct": true,
+	"max_tokens": 128,
+	"frequency_penalty": 1.5,
+	"prefixes": [ 
+		"--",
+    "!!",
+    "––"
+	],
+  "limit": 10,
+	"OPENAI_TOKEN": "PUT TOKEN HERE",
+	"BOT_TOKEN": "PUT TOKEN HERE"
+}
